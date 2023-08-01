@@ -24,7 +24,9 @@ Though I'm learning cloud currently, but this is just for career need not for my
 
 Your guidance can help me to reduce my anxiety and wastage of time. 
 
-📫 You can contact me at [linkedin](https://www.linkedin.com/in/amitguptagwl/)
+📫 You can contact me at 
+- [linkedin](https://www.linkedin.com/in/amitguptagwl/)
+- githubissues@proton.me
 
 
 <!--
