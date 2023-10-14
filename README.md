@@ -10,7 +10,7 @@ I've published many open-source projects. Some of them are
 |[Nimn js](https://github.com/NaturalIntelligence/nimn-spec) | 200000+ downloads/month | Compressed data format
 |[Strnum](https://www.npmjs.com/package/strnum)|42000000+ downloads/month| Parse String to Number|
 
-There are some projects which use my work
+These are some projects and companies which use my work
 
 ![](fxp-users.png)
 
@@ -25,7 +25,7 @@ Here are my some projects that I really like but you probably are not aware
 | [BigBit](https://github.com/amitguptagwl/bigBit/)|Improved Numeric data type and text-encoding|
 | [Anumargak](https://github.com/node-muneem/anumargak)|Router for node js based frameworks|
 
-You can also support me financially to buy some time for me
+You can also support me financially to buy some extra time;
 * Through [Github](https://github.com/sponsors/NaturalIntelligence)
 * Through [Thanks.dev]()
 * Through [OpenCollective](https://opencollective.com/fast-xml-parser/donate)
@@ -35,12 +35,13 @@ You can also support me financially to buy some time for me
 ----
 
 # Career Aspiration
-Well! There is one more way to support me. Help me to find a good career option that match my interest. I'm open for part-time, startup, research-intern ... Let me tell you about my skills, and interest for a better match
+Well! There is one more way to support me. Help me to find a good career option that match my interest. I'm open for part-time, startup, research-intern ... 
+Let me tell you about my skills, and interest for a better match
 
 ## Skills
 * Primary: Logics (Programming, algorithms, SQL queries, Regex ...), Generalise Design Thinking, Space & Cost Saving, Performance first, Accessibility, Automation, Dedication, Loyalty, Stability, Active Learner, Simplifying complex concepts
-* Secondary Skills: Node js, Java, Docker, AWS, ARIA, DB Design, Microservice Architecture, Git, Web Development, Linux, Testing (Unit, Performance, Integration), Authorization
-* Hands on: Python, Python libraries for Data analysis, 
+* Technical Skills: Node js, Java, Docker, AWS, ARIA, DB Design, Microservice Architecture, Git, Web Development, Linux, Testing (Unit, Performance, Integration), Authorization ...
+* Hands on: Python, Python libraries for Data analysis, PHP, Bash Scripting ...
 
 I've not mentioned particular libraries like Cypress, Mocha, JUnit, Spring framework, Redis, Memcache, Kafka, MongDB etc because it could limit me to particular area or application. I'm always open for anything new that match my interest.
 
@@ -65,3 +66,4 @@ I would prefer to switch from IT to any research project.
 📫 You can contact me at 
 - [linkedin](https://www.linkedin.com/in/amitguptagwl/)
 - githubissues@proton.me
+- [Solothought](https://solothought.com/)
