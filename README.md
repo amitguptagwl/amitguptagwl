@@ -1,4 +1,4 @@
-I'm glad that you find the way to reach to this page. I'm an artist with no knoledge of art but with some knowledge of programming. I value creativity, user experience, and automation.
+I'm glad that you find the way to reach to this page. I'm an artist with no knowledge of art but programming. I value creativity, user experience, and automation.
 
 I've published many open-source projects like [Fast-Xml-Parser](https://github.com/NaturalIntelligence/fast-xml-parser/),  [ImgLab](https://solothought.com/imglab), [Stubmatic](https://github.com/NaturalIntelligence/Stubmatic) etc. These are some projects and companies using these open source projrects
 
