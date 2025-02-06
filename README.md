@@ -15,4 +15,6 @@ I'm always open for any art or research work. I can learn anything of any field 
 - githubissues@proton.me
 - [Solothought](https://solothought.com/)
 
-Support my work hrough [Github](https://github.com/sponsors/NaturalIntelligence) (Recommended), [Thanks.dev](), [OpenCollective](https://opencollective.com/fast-xml-parser/donate), [Patreon](https://www.patreon.com/Solothought), or [Paypal](https://paypal.me/naturalintelligence)
+Support my work through [Github](https://github.com/sponsors/NaturalIntelligence) (Recommended), [Thanks.dev](), [OpenCollective](https://opencollective.com/fast-xml-parser/donate), [Patreon](https://www.patreon.com/Solothought), or [Paypal](https://paypal.me/naturalintelligence)
+
+![](https://komarev.com/ghpvc/?username=amitguptagwl)
