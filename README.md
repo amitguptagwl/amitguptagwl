@@ -1,8 +1,9 @@
 I'm glad that you find the way to reach to this page. I'm an artist with no knowledge of art but programming.
 
-Interests I have: Human behavior analysis, User experience (UX), Psychological research, Automation, Cost-saving methods, Organization, Creativity
+Interests I have: User experience (UX) and Accessibility, Product Designs, Human behavior analysis and psychology, Automation, Cost-effective methods, Creativity, Problem Solving
+Beliefes: Egalitarianism
 
-I've published many open-source projects like [Fast-Xml-Parser](https://github.com/NaturalIntelligence/fast-xml-parser/),  [ImgLab](https://solothought.com/imglab), [Stubmatic](https://github.com/NaturalIntelligence/Stubmatic) etc. These are some projects and companies using these open source projrects
+I've published many open-source projects like [Fast-Xml-Parser](https://github.com/NaturalIntelligence/fast-xml-parser/),  [ImgLab](https://solothought.com/imglab), [Stubmatic](https://github.com/NaturalIntelligence/Stubmatic) etc. These are some users of my work;
 
 ![](fxp-users.png)
 
