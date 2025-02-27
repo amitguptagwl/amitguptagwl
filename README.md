@@ -1,24 +1,33 @@
-I'm glad that you find the way to reach to this page. I'm an artist with no knowledge of art but programming.
+> Who says we are free! Even my free work is making money for someone.
 
-Interests I have: User experience (UX) and Accessibility, Product Designs, Human behavior analysis and psychology, Automation, Cost-effective methods, Creativity, Problem Solving
+- **Interests**: User experience (UX) and Accessibility, Product Designs 📦, Human behavior analysis and psychology, Automation, Cost-effective methods, Problem Solving
+- **Beliefes**: Egalitarianism, Commonism 🌱
 
-Beliefes: Egalitarianism
-
-I've published many open-source projects like [Fast-Xml-Parser](https://github.com/NaturalIntelligence/fast-xml-parser/),  [ImgLab](https://solothought.com/imglab), [Stubmatic](https://github.com/NaturalIntelligence/Stubmatic) etc. These are some users of my work;
+I've published many open-source projects like [Fast-Xml-Parser](https://github.com/NaturalIntelligence/fast-xml-parser/),  [ImgLab](https://solothought.com/imglab), [Text2Chart](https://solothought.com/text2chart/flow) etc. These are some users of my work;
 
 ![](fxp-users.png)
 
-I want to dedicate my full time in research and art. I keep publishing my thoughts on [Solothought](https://solothought.com/). I want to make learning fun and keep my all work free if possible. 
+## Career Aspiration
+Free and open to being part of any research work. I would be lucky if it's related to nature or scientific research. Please keep me away from configuration, management, or documentation work—I have a short textual memory.
 
-# Career Aspiration
-I'm always open for any art or research work. I can learn anything of any field that fits to my interest. Everything catches my attention, from creative art and DIY projects to nature, recycling, solving everyday problems, robotics, cosmology, fun learning activities, and algorithms. I'm not interested in just configuration, management, or documentation.
+---
 
+Looking for a second opinion or feeling bored from working on the same thing for too long? I have spare time for you. Drop me an email or message me without a second thought!
 
 📫 You can contact me at 
-- [linkedin](https://www.linkedin.com/in/amitguptagwl/)
-- githubissues@proton.me
-- [Solothought](https://solothought.com/)
+- 🔗 [linkedin](https://www.linkedin.com/in/amitguptagwl/)
+- 📧 githubissues@proton.me
+- 🖍️ Blog: [Solothought](https://solothought.com/).
 
-Support my work through [Github](https://github.com/sponsors/NaturalIntelligence) (Recommended), [Thanks.dev](), [OpenCollective](https://opencollective.com/fast-xml-parser/donate), [Patreon](https://www.patreon.com/Solothought), or [Paypal](https://paypal.me/naturalintelligence)
+## Support
+
+- 💰 Being an owner of a business/product you can support my work through [Github](https://github.com/sponsors/NaturalIntelligence) (Recommended), [Thanks.dev](), [OpenCollective](https://opencollective.com/fast-xml-parser/donate), [Patreon](https://www.patreon.com/Solothought), or [Paypal](https://paypal.me/naturalintelligence)
+- 🧑‍🏫 **Being an individual, I would not ask you to donate money to me, but rather to support me in various ways, such as:**
+  - Be my mentor or help me to learn something new (not a software for sure).
+  - Supporting me in social causes.
+  - Connecting me with people or groups working for social causes or who share my beliefs.
+  - Being my friend—I will definitely learn something from you, and I will try to offer a different perspective on thinking.
+  - Making me a part of some scientific research (not just another software project).
+  - Inviting me to visit your country to experience its culture and local life.
 
 ![](https://komarev.com/ghpvc/?username=amitguptagwl)
