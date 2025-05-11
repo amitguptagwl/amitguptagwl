@@ -25,7 +25,7 @@ Looking for a second opinion or feeling bored from working on the same thing for
 ## Support
 
 - 💰 Being an owner of a business/product you can support my work through [Github](https://github.com/sponsors/NaturalIntelligence) (Recommended), [Thanks.dev](), [OpenCollective](https://opencollective.com/fast-xml-parser/donate), [Patreon](https://www.patreon.com/Solothought), or [Paypal](https://paypal.me/naturalintelligence)
-- 🧑‍🏫 **Being an individual, I would not ask you to donate money to me, but rather to support me in various ways, such as:**
+- 🧑‍🏫 **Seeking your support:**
   - Be my mentor or help me to learn something new (not a software for sure).
   - Supporting me in social causes.
   - Connecting me with people or groups working for social causes or who share my beliefs.
