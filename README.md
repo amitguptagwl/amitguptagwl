@@ -1,4 +1,4 @@
-> Who says we are free! Even our free work is making money for someone.
+**OPEN FOR WORK* in IT or CS projects and guidance. Please connect through linkedin.
 
 - **Interests**: User experience (UX) and Accessibility, Product Designs 📦, Human behavior analysis and psychology, Automation, Cost-effective methods, Problem Solving
 - **Beliefes**: Egalitarianism, Commonism 🌱
@@ -11,7 +11,7 @@ I've published many open-source projects like [Fast-Xml-Parser](https://github.c
 ![](fxp-users.png)
 
 ## Career Aspiration
-Free and open to being part of any research work. I would be lucky if it's related to nature or scientific research. Please keep me away from configuration, management, or documentation work—I have a short textual memory.
+Free and open to being part of any research work. I would be lucky if it's related to nature or scientific research.
 
 ---
 
