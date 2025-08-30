@@ -1,9 +1,9 @@
-**OPEN FOR WORK* in IT or CS projects and guidance. Please connect through linkedin.
 
-- **Interests**: User experience (UX) and Accessibility, Product Designs 📦, Human behavior analysis and psychology, Automation, Cost-effective methods, Problem Solving
-- **Beliefes**: Egalitarianism, Commonism 🌱
 
-Check mylatest project [Flowgger](https://github.com/solothought/flowgger). This can save 90% logs space and reduce debugging times from days to minutes.
+- **Interests**: Automation, Problem Solving, User experience (UX) and Accessibility, Product Designs 📦, Human behavior analysis and psychology, Cost-effective methods
+- **Beliefs**: Egalitarianism, Commonism 🌱
+
+Check latest project [Flowgger](https://github.com/solothought/flowgger). This can save 90% logs space and reduce debugging times from days to minutes.
 ![Flowgger](https://github.com/NaturalIntelligence/fast-xml-parser/raw/master/static/img/flowgger_h.webp)
 
 I've published many open-source projects like [Fast-Xml-Parser](https://github.com/NaturalIntelligence/fast-xml-parser/),  [ImgLab](https://solothought.com/imglab), [Text2Chart](https://solothought.com/text2chart/flow), etc. These are some users;
@@ -11,11 +11,11 @@ I've published many open-source projects like [Fast-Xml-Parser](https://github.c
 ![](fxp-users.png)
 
 ## Career Aspiration
-Free and open to being part of any research work. I would be lucky if it's related to nature or scientific research.
+Still exploring, but open to collaboration. Available to consult system architecture or programming solutions for startups, individual, or NGO.
 
 ---
 
-Looking for a second opinion or feeling bored from working on the same thing for too long? I have spare time for you. Drop me an email or message me without a second thought!
+I love connecting people from different regions all around the world. I help people to overcome soft skill issues. Feel free to drop an email or connect.
 
 📫 You can contact me at 
 - 🔗 [linkedin](https://www.linkedin.com/in/amitguptagwl/)
