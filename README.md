@@ -1,8 +1,7 @@
+> Happy for work exchange to roam around the world.
 
-
-- **Interests**: Automation, Problem Solving, User experience (UX) and Accessibility, Product Designs 📦, Human behavior analysis and psychology, Cost-effective methods
-- **Beliefs**: Egalitarianism, Commonism 🌱
-
+**Interests**: Automation, Problem Solving, User experience (UX) and Accessibility, Product Designs 📦, Human behavior analysis and psychology, Cost-effective methods. Poetry, Writing.
+Skills: Thinking :D
 
 I've published many open-source projects like [Fast-Xml-Parser](https://github.com/NaturalIntelligence/fast-xml-parser/),  [ImgLab](https://solothought.com/imglab), [Text2Chart](https://solothought.com/text2chart/flow), etc. These are some users;
 
