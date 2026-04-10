@@ -3,8 +3,6 @@
 - **Interests**: Automation, Problem Solving, User experience (UX) and Accessibility, Product Designs 📦, Human behavior analysis and psychology, Cost-effective methods
 - **Beliefs**: Egalitarianism, Commonism 🌱
 
-Check latest project [Flowgger](https://github.com/solothought/flowgger). This can save 90% logs space and reduce debugging times from days to minutes.
-![Flowgger](https://github.com/NaturalIntelligence/fast-xml-parser/raw/master/static/img/flowgger_h.webp)
 
 I've published many open-source projects like [Fast-Xml-Parser](https://github.com/NaturalIntelligence/fast-xml-parser/),  [ImgLab](https://solothought.com/imglab), [Text2Chart](https://solothought.com/text2chart/flow), etc. These are some users;
 
