@@ -1,6 +1,14 @@
 
 
-Maintaining Open Source projects since 2015.
+Maintaining Open Source projects since 2015. I've one philosophy "चलो कुछ नया करते हैं" (let's do something new).
+
+```
+इससे पहले कि मर जायें
+चलो कुछ नया कर जाायें
+हौसला ना दे जमाना तो
+उनसे कह दो कि घर जाायें
+  - अमित
+```
 
 [![fast-xml-parser](https://img.shields.io/npm/dm/fast-xml-parser?label=fast-xml-parser&color=darkgreen)](https://github.com/NaturalIntelligence/fast-xml-parser)
 [![fast-xml-builder](https://img.shields.io/npm/dm/fast-xml-builder?label=fast-xml-builder&color=darkgreen)](https://www.npmjs.com/package/fast-xml-builder)
