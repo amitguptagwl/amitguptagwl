@@ -10,7 +10,7 @@ Maintaining Open Source projects since 2015.
 [![@0nodable/entities](https://img.shields.io/npm/dm/%40nodable%2Fentities?label=%40nodable%2Fentities&color=darkgreen)](https://www.npmjs.com/package/@0nodable/entities)
 ![@0nodable/flexible-xml-parser](https://img.shields.io/npm/dm/%40nodable%2Fflexible-xml-parser?label=%40nodable%2Fflexible-xml-parser&color=darkgreen)
 [![fast-xml-validator](https://img.shields.io/npm/dm/fast-xml-validator?label=fast-xml-validator&color=darkgreen)]((https://www.npmjs.com/package/fast-xml-validator))
-[![detailed-xml-validator](https://img.shields.io/npm/dm/detailed-xml-validator?label=detailed-xml-validator&color=darkgreen)]((https://www.npmjs.com/package/detailed-xml-validator)
+[![detailed-xml-validator](https://img.shields.io/npm/dm/detailed-xml-validator?label=detailed-xml-validator&color=darkgreen)](https://www.npmjs.com/package/detailed-xml-validator)
 
 Connect me 
 - for work exchange to roam around the world.
