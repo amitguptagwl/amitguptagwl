@@ -6,10 +6,10 @@ Maintaining Open Source projects since 2015.
 [![fast-xml-builder](https://img.shields.io/npm/dm/fast-xml-builder?label=fast-xml-builder&color=darkgreen)](https://www.npmjs.com/package/fast-xml-builder)
 [![strnum](https://img.shields.io/npm/dm/strnum?label=strnum&color=darkgreen)](https://www.npmjs.com/package/strnum)
 [![anynum](https://img.shields.io/npm/dm/anynum?label=anynum&color=darkgreen)](https://www.npmjs.com/package/anynum)
-![xml-naming](https://img.shields.io/npm/dm/xml-naming?label=xml-naming&color=darkgreen)
+[![xml-naming](https://img.shields.io/npm/dm/xml-naming?label=xml-naming&color=darkgreen)](https://www.npmjs.com/package/xml-naming)
 [![@0nodable/entities](https://img.shields.io/npm/dm/%40nodable%2Fentities?label=%40nodable%2Fentities&color=darkgreen)](https://www.npmjs.com/package/@0nodable/entities)
-![@0nodable/flexible-xml-parser](https://img.shields.io/npm/dm/%40nodable%2Fflexible-xml-parser?label=%40nodable%2Fflexible-xml-parser&color=darkgreen)
-[![fast-xml-validator](https://img.shields.io/npm/dm/fast-xml-validator?label=fast-xml-validator&color=darkgreen)]((https://www.npmjs.com/package/fast-xml-validator))
+[![@0nodable/flexible-xml-parser](https://img.shields.io/npm/dm/%40nodable%2Fflexible-xml-parser?label=%40nodable%2Fflexible-xml-parser&color=darkgreen)](https://www.npmjs.com/package/@0nodable/flexible-xml-parser)
+[![fast-xml-validator](https://img.shields.io/npm/dm/fast-xml-validator?label=fast-xml-validator&color=darkgreen)](https://www.npmjs.com/package/fast-xml-validator)
 [![detailed-xml-validator](https://img.shields.io/npm/dm/detailed-xml-validator?label=detailed-xml-validator&color=darkgreen)](https://www.npmjs.com/package/detailed-xml-validator)
 
 Connect me 
